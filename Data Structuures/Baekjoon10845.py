@@ -1,4 +1,4 @@
-# 백준 10845번: 큐
+# 백준 10845번 : 큐
 from collections import deque
 import sys
 
