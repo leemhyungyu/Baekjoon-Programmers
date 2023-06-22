@@ -7,7 +7,7 @@
 
 import Foundation
 
-var dxdy = [(-1, 0), (1, 0), (0, -1), (0, 1)] // 상, 하, 좌, 우
+//var dxdy = [(-1, 0), (1, 0), (0, -1), (0, 1)] // 상, 하, 좌, 우
 
 func solution(_ key:[[Int]], _ lock:[[Int]]) -> Bool {
 
